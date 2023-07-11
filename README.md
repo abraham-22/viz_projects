@@ -8,4 +8,5 @@
 * JavaScript
 * Leaflet
 * Tableau
+* Matplotlib
 
